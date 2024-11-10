@@ -84,7 +84,6 @@ int main() {
     double number = 89756952;
     int n = 3;
     
-    //double sqrt = sqrtUser(42, 4); 
     printf("The square root of %lf to %i decimal places is %lf.\n", number, n, sqrtUser(number, n));
 
 }
